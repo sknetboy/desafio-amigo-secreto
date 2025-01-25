@@ -54,7 +54,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios organiz
 
 ## Ejemplo visual
 
-![Vista previa de la aplicación](https://via.placeholder.com/800x400?text=Vista+previa+de+Amigo+Secreto)
+![Vista previa de la aplicación](https://sknetboy.github.io/desafio-amigo-secreto/)
 
 ## Contribuciones
 
